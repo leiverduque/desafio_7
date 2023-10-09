@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+h1 {
+    background-color: blueviolet;
+    text-align: center;
+}
+body {
+    background-color: beige;
+}
+
+h2 {
+    color: blue;
+   text-indent: 10px;
+}
+
+dl {
+    text-indent: 30px;
+}
+
+footer {
+    text-align: center;
+}
